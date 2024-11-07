@@ -17,4 +17,3 @@
     <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </div>
 
-Sou apaixonado por tecnologia e inovação, com uma sólida base em administração e experiência prática em atendimento ao cliente e gestão de processos. Atualmente, busco oportunidades na área de TI para aplicar meus conhecimentos e continuar meu desenvolvimento profissional.
